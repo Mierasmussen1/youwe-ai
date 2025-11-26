@@ -1,0 +1,45 @@
+{
+  "projects": [
+    {
+      "name": "Decofarver",
+      "budget": 30000,
+      "actual": 26500,
+      "forecast": 60000,
+      "marginPct": 5
+    },
+    {
+      "name": "Forbrugsforeningen",
+      "budget": 500000,
+      "actual": 430000,
+      "forecast": 880000,
+      "marginPct": 70
+    },
+    {
+      "name": "Kooperationen",
+      "budget": 25000,
+      "actual": 30000,
+      "forecast": 125000,
+      "marginPct": 10
+    },
+    {
+      "name": "Neye",
+      "budget": 45000,
+      "actual": 40000,
+      "forecast": 100000,
+      "marginPct": 16
+    },
+    {
+      "name": "Ooono",
+      "budget": 130000,
+      "actual": 115000,
+      "forecast": 420000,
+      "marginPct": 31
+    }
+  ],
+  "totals": {
+    "totalBudget": 730000,
+    "totalActual": 641500,
+    "totalForecast": 1585000,
+    "avgMargin": 26.4
+  }
+}
